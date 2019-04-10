@@ -1,7 +1,7 @@
 {
   "db": {
-    "host": "localhost",
-    "port": 27017,
+    "host": "",
+    "port": 0,
     "url": "",
     "database": "music",
     "password": "",

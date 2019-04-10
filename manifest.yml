@@ -1,0 +1,4 @@
+applications:
+  - name: sound-owl
+    random-route: true
+    memory: 256M 
